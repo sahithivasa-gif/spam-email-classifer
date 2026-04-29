@@ -24,5 +24,4 @@ The model is trained on a dataset containing labeled spam and ham (non-spam) mes
 ## ✅ Results
 The model achieves good accuracy and performs well on test data.
 
-## 📷 Output
-(Add screenshots here)
+
